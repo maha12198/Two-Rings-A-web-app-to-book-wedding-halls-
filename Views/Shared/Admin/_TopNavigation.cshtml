@@ -1,0 +1,44 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+  <!-- Navbar -->
+ 
+  <nav class="main-header navbar navbar-expand-lg navbar-dark bg-dark">
+   <!-- Left navbar links -->
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link active " data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+      </li>
+      <li class="nav-item ">
+                    <a asp-controller="Home" asp-action="Index" class="nav-link active" >
+                   
+                        <p>
+                            Home
+                        </p>
+                    </a>
+               </li>
+
+                  <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Halls" asp-action="Index">Halls</a>
+                        </li>
+          
+
+                  
+     
+       
+    </ul>
+
+     <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a asp-controller="Admin" asp-action="Index" class="nav-link active" >
+                   
+                        <p>
+                           Hi, @User.Identity.Name
+                        </p>
+                    </a>
+            </li>
+            </ul>
+  </nav>
+  <!-- /.navbar -->

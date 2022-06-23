@@ -1,0 +1,69 @@
+﻿@using System.Security.Claims
+@using Final_Project.Data
+@model IEnumerable<Final_Project.Models.UserBookHall>
+@inject ApplicationDbContext context
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <br />
+        <br />
+        <br />
+
+
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+          
+            <th>
+hall            </th>
+            <th>
+phone            </th>
+<th>
+Requird Day            </th>
+            <th>
+bookday            </th>
+            <th>
+aproved            </th>
+        </tr>
+    </thead>
+    <tbody>
+@{
+                var userid = User.FindFirstValue(ClaimTypes.NameIdentifier);
+     var HallReservetions = context.UserBookHalls.Where(u=>u.UserId == userid);
+     @foreach(var item2 in HallReservetions ){
+        <tr>
+            
+            <td>
+                @item2.Hall.Name
+            </td>
+            <td>
+                @item2.Phone
+            </td>
+            <td>
+                @item2.RequiredDay.ToShortDateString()
+            </td>
+            <td>
+                @item2.BookDay.ToShortDateString()
+            </td>
+            <td>
+                @item2.approved
+            </td>
+          
+        </tr>
+        }
+}
+    </tbody>
+</table>
+
+
+    </main>
+</div>

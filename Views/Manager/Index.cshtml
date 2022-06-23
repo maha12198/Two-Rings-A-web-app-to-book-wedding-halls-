@@ -1,0 +1,125 @@
+﻿@using Final_Project.Data;
+@inject ApplicationDbContext context
+@model IEnumerable<Final_Project.Models.Hall>
+@{
+    ViewData["Title"] = "Index";
+
+}
+<div class="container">
+    <main role="main" class="pb-3">
+        <br />
+        <br />
+        <br />
+        <br/>
+        
+@Html.ActionLink("Approved Reservation", "ApprovedReservation", "Manager")
+
+        <br />
+        <br />
+      
+@if(Model.Count() != 0)
+{
+    @foreach(var item1 in Model)
+            {
+                var HallReservetions = context.UserBookHalls.Where(u => u.HallId == item1.id && u.approved==false).ToList();
+    if (HallReservetions.Count != 0)
+    {
+        
+               <h1>
+               @item1.Name
+               </h1>
+         <table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+           UserName
+            </th>
+           
+
+              <th>
+                 Phone
+            </th>
+
+              <th>
+                Another Phone
+            </th>
+
+            <th>
+              Reservation Day
+            </th>
+            <th>
+                Required Day
+            </th>
+            
+            <th>
+                Package
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach(var item2 in HallReservetions)
+    {
+        var user = context.Users.Where(u => u.Id == item2.UserId).FirstOrDefault();
+            if(user != null)
+            {
+               
+
+        <tr>
+            <td>
+                @user.First_Name @user.Last_Name
+            </td>
+           
+            <td>
+                @user.PhoneNumber
+            </td>
+
+             <td>
+                @item2.Phone
+            </td>
+            <td>
+            @item2.BookDay.ToShortDateString()
+            </td>
+            <td>
+            @item2.RequiredDay.ToShortDateString()
+            </td>
+
+           <td>
+          @context.HallPackages.Where(p=>p.Id==item2.PackageId).FirstOrDefault().Name
+            </td>
+
+            <td>
+                @Html.ActionLink("Approve", "Approve", new{HallID=item2.HallId,DateTime=item2.RequiredDay})
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "Delete",new{HallID=item2.HallId,DateTime=item2.RequiredDay} )
+            </td>
+
+         
+        </tr>
+            }
+            }
+    </tbody>
+</table>
+     }
+     else{
+              <h1>
+               @item1.Name
+               </h1>
+
+         <h1 style="text-align:center">
+             No Hall Reservations For Now
+        </h1>
+     }
+    }
+}
+else
+{
+     <h1 style="text-align:center">
+             No Halls registered for you right now
+        </h1>
+}
+  
+
+    </main>
+</div>

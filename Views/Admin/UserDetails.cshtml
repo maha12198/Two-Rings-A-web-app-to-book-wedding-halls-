@@ -1,0 +1,63 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model Final_Project.Models.ApplicationUser
+@inject UserManager<ApplicationUser> UserManager
+@{
+    ViewData["Title"] = "UserDetails";
+    Layout = "~/Views/Shared/Admin/_Layout.cshtml";
+}
+
+<h1  style="text-align:center">User Details</h1>
+<div class="container"> 
+  <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-12 ">
+                        <span class="label " style="font-size:30px" >UserName: </span>
+                        <span style="font-size:20px" >@Model.UserName</span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12 ">
+                        <span class="label " style="font-size:30px" >Full Name: </span>
+                        <span style="font-size:20px" >@Model.First_Name</span> &nbsp
+                        <span style="font-size:20px" >@Model.Last_Name</span>
+                    </div>
+
+                       <div class="col-md-12 ">
+                        <span class="label " style="font-size:30px">Phone Number: &nbsp </span>
+                        <span  style="font-size:20px" >@Model.PhoneNumber</span>
+                    </div>
+
+                       <div class="col-md-12 ">
+                        <span class="label " style="font-size:30px" >Email confirmed: </span>
+                @if (Model.EmailConfirmed)
+                {
+                    <span   style="font-size:20px">True</span>
+                }
+                else
+                {
+                     <span   style="font-size:20px">Not Confirmed yet</span>
+                }
+            </div>
+
+                        <div class="col-md-12 ">
+                        <span class="label "  style="font-size:30px" >Role: </span>
+                     
+@*            
+            *@
+
+            @{
+                  var roles = await UserManager.GetRolesAsync(@Model);
+                     
+              }
+              @if(roles.Count!=0){
+                      <span   style="font-size:20px">@roles[0]</span>
+                }
+                else
+                {
+                   <span   style="font-size:20px">User</span>
+                }
+                    </div>
+                </div>
+                </div> 
+                </div>

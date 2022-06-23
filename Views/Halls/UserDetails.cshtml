@@ -1,0 +1,53 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model Final_Project.Models.ApplicationUser
+@inject UserManager<ApplicationUser> UserManager
+@{
+    ViewData["Title"] = "UserDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+     <div class="container">
+          <main role="main" class="pb-3">
+          <br />
+
+<h1 style="text-align:center">User Details</h1>
+<div class="container"> 
+  <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>@Model.UserName</h1>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12 text-primary">
+                        <span class="label label-primary" style="text-align:center" >Full Name: </span>
+                        <span style="font-size:larger" class="monospaced">@Model.First_Name</span>
+                        <span class="monospaced">@Model.Last_Name</span>
+                    </div>
+
+                       <div class="col-md-12 text-primary">
+                        <span class="label label-primary">Phone Number: &nbsp </span>
+                        <span class="monospaced">@Model.PhoneNumber</span>
+                    </div>
+
+                       <div class="col-md-12 text-primary">
+                        <span class="label label-primary">Email: </span>
+                     <a href = "mailto:@Model.Email"> Send Email Message</a>
+                    </div>
+
+                        <div class="col-md-12 text-primary">
+                        <span class="label label-primary">Role: </span>
+                     
+              @*@{
+                  var roles = await UserManager.GetRolesAsync(@Model.ro);
+
+              }
+            <span class="monospaced">@roles[0]</span>*@
+                    </div>
+                </div>
+                </div> 
+                </div>
+
+                    </main>
+</div>

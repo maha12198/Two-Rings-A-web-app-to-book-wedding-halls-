@@ -1,0 +1,112 @@
+﻿@using System.Security.Claims
+@using Final_Project.Data
+@using Microsoft.EntityFrameworkCore
+@model Final_Project.Models.UserBookHall
+@inject ApplicationDbContext context
+
+
+@{
+    ViewData["Title"] = "Booking";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>Booking</h1>
+
+@{ if (TempData["Error"] != null)
+        {
+            string ErrorItem = TempData["Error"] as string;
+            <div class="alert alert-dismissible alert-warning">
+            <h4 class="alert-heading"> Booked up</h4>
+            <p class="mb-0">@ErrorItem booked!</p>
+        </div>
+
+    }
+}
+<hr />
+<div class="container">
+    <main role="main" class="pb-3">
+          <br />
+        <br />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Booking">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+             <div class="form-group">
+                 <h4>User Name</h4>
+                 @ViewBag.userName
+            </div>
+             <div class="form-group">
+                 <h4>Hall Name</h4>
+                 @ViewBag.NameHall
+            </div>
+            
+            <hr />
+
+                <div class="form-group" style = "display:none;">
+                <label asp-for="UserId" class="control-label"></label>
+                <input asp-for="UserId" class="form-control" value=@ViewBag.msg />
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+            
+             <div class="form-group" style = "display:none;">
+                <label asp-for="HallId" class="control-label"></label>
+                <input asp-for="HallId" class="form-control" value=@ViewBag.hallIdUrl />
+                <span asp-validation-for="HallId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" style = "display:none;">
+
+                <input type="text" name="BookDay" class="control-label" value=@ViewBag.currentDate />
+             
+            </div>
+
+                <div class="form-group">
+                <label  class="control-label"> Package</label>
+                <select asp-for="PackageId" class ="form-control" asp-items="ViewBag.HallPakedgID"></select>
+            </div> 
+          
+            
+
+            <div class="form-group">
+                <label  class="control-label">Required Day</label>
+                <input asp-for="RequiredDay" type="date" id="date" class="form-control" />
+                    <span asp-validation-for="RequiredDay" class="text-danger"></span>
+              </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" class="form-control"  />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Book" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+
+  
+</div>
+
+    </main>
+</div>
+
+    @section scripts{
+
+    
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+ <script>
+
+ $(function(){
+    var date = new Date().toISOString().slice(0,10);
+
+//To restrict past date
+
+$('#date').attr('min', date);
+
+
+});
+    </script>
+    }
+

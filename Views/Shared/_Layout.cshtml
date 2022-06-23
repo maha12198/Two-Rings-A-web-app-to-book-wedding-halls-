@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Two Rings</title>
+     <link rel="icon" href="~/assets/img/Logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-boot.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    
+    <!-- Template Main CSS File -->
+    <link href="~/assets/css/style2.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+        @RenderSection("css", false)
+</head>
+<body>
+
+
+    <header >
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark box-shadow mb-3 fixed-top">
+            <div class="container">
+                
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/assets/img/Logo.png" alt="Logo" width="50px" height="50px"/>
+                    
+                    Two Rings</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse ">
+                   
+                    <ul class="navbar-nav flex-grow-1">
+                        
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index"> Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Halls" asp-action="Index">Halls</a>
+                        </li>
+                   
+                    </ul>
+                     <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    
+               
+                    @RenderBody()
+               
+
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - Two Rings - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+
+ 
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

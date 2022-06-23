@@ -1,0 +1,91 @@
+﻿@model Final_Project.Models.ViewModels.HallVM
+@{
+    ViewData["Title"] = "CreateHall";
+     Layout = "~/Views/Shared/Admin/_Layout.cshtml";
+}
+
+<h1 class="offset-1">Create Hall</h1>
+
+<div class="row offset-1">
+    <div class="col-md-4">
+        <form asp-action="CreateHall" enctype="multipart/form-data">
+            <div asp-validation-summary="All" class="text-danger"></div>
+          <div class="input-group mb-3">
+                <input asp-for="Name" class="form-control" placeholder="Name" />
+              @*  <span asp-validation-for="Name" class="text-danger"></span>*@
+                <div class="input-group-append">
+                    <div class="input-group-text">
+                        <span class="fas fa-place-of-worship"></span>
+                    </div>
+                </div>
+            </div>
+
+           <div class="input-group mb-3">
+                <input asp-for="Location" class="form-control" placeholder="Location" />
+             @*   <span asp-validation-for="Location" class="text-danger"></span>*@
+                <div class="input-group-append">
+                    <div class="input-group-text">
+                        <span class="fas  fa-location-arrow"></span>
+                    </div>
+                </div>
+            </div>
+         <div class="input-group mb-3">
+                <input asp-for="Price" class="form-control" placeholder="Price" />
+               @* <span asp-validation-for="Price" class="text-danger"></span>*@
+                <div class="input-group-append">
+                    <div class="input-group-text">
+                        <span class="fas fa-dollar-sign"></span>
+                    </div>
+                </div>
+            </div>
+      
+               <div class="form-group">
+      @*  <label asp-for="HallPhotos" class="control-label"></label>*@
+        <div class="custom-file">
+            <input asp-for="HallPhotos" class="custom-file-input multiple" id="File"  accept=".png, .jpg, .jpeg"   onchange="javascript:updateList()">
+            <label class="custom-file-label" for="File">Choose Hall Images</label>
+            <div id="fileList"></div>
+        </div>
+    @*    <span asp-validation-for="HallPhotos" class="text-danger"></span>*@
+    </div>
+                  
+              
+              <div class="form-group">
+               @* <label asp-for="mangerid" class="control-label"></label>*@
+               @Html.DropDownList("Mangerid",null,"Manger Name",new {@class="form-control"})
+                
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script type="text/javascript">  
+        // Add the following code if you want the name of the file appear on select  
+        $(".text").on("change", function () {  
+            var fileName = $(this).val().split("\\").pop();  
+            $(this).siblings(".custom-file-label").addClass("selected").html(fileName);  
+        });
+        updateList = function() {
+  var input = document.getElementById('File');
+  var output = document.getElementById('fileList');
+
+  output.innerHTML = '<ul>';
+  for (var i = 0; i < input.files.length; ++i) {
+    output.innerHTML += '<li>' + input.files.item(i).name + '</li>';
+  }
+  output.innerHTML += '</ul>';
+}
+
+
+    </script>  
+}
+
+
+

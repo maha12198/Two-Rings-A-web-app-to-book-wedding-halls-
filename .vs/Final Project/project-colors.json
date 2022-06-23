@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a364d758-3a59-4e31-ab68-dab0c83240b6": {
+      "ProjectGuid": "a364d758-3a59-4e31-ab68-dab0c83240b6",
+      "DisplayName": "Final Project",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "00f6ea96-8d5a-4dbe-9403-3168870ee928": {
+      "ProjectGuid": "00f6ea96-8d5a-4dbe-9403-3168870ee928",
+      "DisplayName": "EmailService",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

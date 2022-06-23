@@ -1,0 +1,111 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<Final_Project.Models.ApplicationUser>
+@inject UserManager<ApplicationUser> UserManager
+@{
+    ViewData["Title"] = "ShowUsers";
+    Layout = "~/Views/Shared/Admin/_Layout.cshtml";
+}
+
+<h1>Show All Users</h1>
+
+<p>
+  <a class="btn btn-outline-info"asp-action="CreateUser" asp-controller="Admin" > Create New User </a>
+</p>
+
+@{ if (TempData["deleted"] != null)
+        {
+
+            string deletdItem = TempData["deleted"] as string;
+           <div class="alert alert-dismissible alert-warning">
+            <h4 class="alert-heading"> Deleted </h4>
+            <p class="mb-0">@deletdItem deleted successfully</p>
+        </div>
+
+
+    }
+}
+@{ if (TempData["Updated"] != null)
+        {
+
+            string deletdItem = TempData["Updated"] as string;
+           <div class="alert alert-dismissible alert-warning">
+            <h4 class="alert-heading">Updated</h4>
+            <p class="mb-0">@deletdItem Updated successfully</p>
+        </div>
+
+
+    }
+}
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                Full Name
+            </th>
+           
+
+              <th>
+                  @Html.DisplayNameFor(model => model.UserName)
+            </th>
+
+           
+            <th>
+               Phone Number
+            </th>
+               <th>
+                 Role
+            </th>
+             <th>
+            Email Confirmed
+            </th>
+            <th> </th>
+            <th> </th>
+            <th> </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.First_Name)
+                 @Html.DisplayFor(modelItem => item.Last_Name)
+            </td>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+         
+              <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
+            </td>
+            
+              @{
+                  var roles = await UserManager.GetRolesAsync(item);
+                     
+              }
+              @if(roles.Count!=0){
+                           <td>
+                                @roles[0]
+                    </td>
+
+                }
+                else
+                {
+                    <td>
+                    User
+                    </td>
+                }
+              <td>
+                    @Html.DisplayFor(modelItem => item.EmailConfirmed)
+              </td>
+            <td>
+                <a asp-action="UpdateUser"  asp-route-id="@item.Id" class="btn btn-outline-info">Edit</a>  &nbsp
+                <a asp-action="UserDetails"  class="btn btn-outline-success"  asp-route-id="@item.Id" >Details</a>  &nbsp 
+                <a asp-action="DeleteUser"  class="btn btn-outline-danger" asp-route-id="@item.Id"><i class="fa fa-trash"></i> </a>
+             
+                </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Final_Project.Models.Hall>
+
+@{
+    ViewData["Title"] = "ShowHalls";
+    Layout = "~/Views/Shared/Admin/_Layout.cshtml";
+}
+
+<h1>Show All Halls</h1>
+
+<p>
+    <a asp-action="CreateHall" class="btn btn-outline-info" >Create New Hall</a>
+</p>
+
+<p>
+  <a class="btn btn-outline-info"asp-action="CreatePackage" asp-controller="Admin" > Create New Package </a>
+</p>
+@{ if (TempData["deleted"] != null)
+        {
+            string deletdItem = TempData["deleted"] as string;
+            <div class="alert alert-dismissible alert-warning">
+            <h4 class="alert-heading"> Deleted</h4>
+            @if(deletdItem=="can't delete this Hall ,still has pending reservations ")
+            {
+                <p class="mb-0">@deletdItem </p>
+            }
+            else
+            {
+                <p class="mb-0">@deletdItem </p>
+            }
+            
+        </div>
+
+
+    }
+}
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Manager)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Manager.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Location)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+           
+            <td>
+                <a asp-action="UpdateHall" asp-route-id="@item.id" class="btn btn-outline-info">Edit Hall Info</a> &nbsp 
+                 <a asp-action="UpdateHallImages" asp-route-id="@item.id" class="btn btn-outline-info">Edit Hall Images</a> &nbsp
+                <a asp-action="Showpackages" asp-route-id="@item.id" class="btn btn-outline-info">Hall Packages</a>
+                 <a asp-action="HallDetails" asp-route-id="@item.id" class="btn btn-outline-success" >Details</a> &nbsp
+                <a asp-action="DeleteHall" asp-route-id="@item.id"  class="btn btn-outline-danger"> <i class="fa fa-trash"></i> </a> &nbsp
+              
+                </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,74 @@
+﻿@using Final_Project.Helpers
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+ <!-- Main Sidebar Container -->
+  <aside class="main-sidebar sidebar-dark-primary elevation-4">
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <!-- Sidebar user panel (optional) -->
+      <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+
+          <div class="logo-wrapper sn-ad-avatar-wrapper">
+                
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/assets/img/Logo.png" alt="Logo" width="50px" height="50px"/>
+                    
+                    Two Rings</a>
+          </div>
+
+       
+      </div>
+
+      <!-- Sidebar Menu -->
+      <nav class="mt-2">
+        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+          <!-- Add icons to the links using the .nav-icon class
+               with font-awesome or any other icon font library -->
+              
+        <li class="nav-item ">
+                    <a asp-controller="Admin" asp-action="Index" class="nav-link @Url.MakeActiveClass("Admin","Index")">
+                   <i class="nav-icon fas fa-home"></i>
+                        <p>
+                         Index
+                        </p>
+                    </a>
+               </li>
+
+                      
+        <li class="nav-item ">
+                    <a asp-controller="Admin" asp-action="ShowHalls" class="nav-link @Url.MakeActiveClass("Admin","ShowHalls")">
+                  
+                    <i class=" nav-icon fas  fa-solid fa-place-of-worship"></i>
+                        <p>
+                          Show Halls
+                        </p>
+                    </a>
+               </li>
+
+                   <li class="nav-item ">
+                    <a asp-controller="Admin" asp-action="ShowUsers" class="nav-link @Url.MakeActiveClass("Admin","ShowUsers")">
+                   
+                          <i class="nav-icon fas fa-user-tie"></i> 
+                        <p>
+                          Show Users
+                        </p>
+                    </a>
+               </li>
+            
+               
+                   <li class="nav-item ">
+                    <a asp-controller="Admin" asp-action="UpdateRole" class="nav-link @Url.MakeActiveClass("Admin","UpdateRole")">
+                       <i class="nav-icon fas fa-user-tie"></i> 
+                        <p>
+                         Assign Role To User
+                        </p>
+                    </a>
+               </li>
+            
+        </ul>
+      </nav>
+      <!-- /.sidebar-menu -->
+    </div>
+    <!-- /.sidebar -->
+  </aside>

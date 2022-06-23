@@ -1,0 +1,68 @@
+﻿@using Final_Project.Data
+@using Microsoft.AspNetCore.Identity
+@model Final_Project.Models.ApplicationUser
+@inject UserManager<ApplicationUser> UserManager
+@inject ApplicationDbContext context
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Admin/_Layout.cshtml";
+}
+	@{
+    var loactions = @context.Halls.Select(h => h.Location).Distinct();
+
+ 
+    
+}
+	<section class="content">
+      <div class="container-fluid">
+        <!-- Small boxes (Stat box) -->
+        <div class="row">
+          <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-info">
+              <div class="inner">
+                <h3>  @context.Users.ToList().Count()</h3>
+
+                <p>Number of Users </p>
+              </div>
+              <div class="icon">
+                    <i class="nav-icon fas fa-user-tie"></i> 
+             
+              </div>
+            </div>
+          </div>
+          <!-- ./col -->
+		  @foreach(var item in loactions)
+{
+          <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-success">
+              <div class="inner">
+                <h3>  @context.Halls.Where(h => h.Location == item).ToList().Count() </h3>
+
+                <p>Number of Halls In  @item </p>
+              </div>
+              <div class="icon">
+                <i class=" nav-icon fas  fa-solid fa-place-of-worship"></i>
+              </div>
+             
+            </div>
+          </div> 
+		  }
+          <!-- ./col -->
+          <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-warning">
+              <div class="inner">
+                <h3> @ViewBag.mangerCount</h3>
+
+                <p>Number of Managers</p>
+              </div>
+              <div class="icon">
+					  <i class="nav-icon fas fa-user-tie"></i> 
+				</div>
+            </div>
+          </div>
+          </div>
+          </div>
+          </section>

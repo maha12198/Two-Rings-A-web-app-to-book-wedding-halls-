@@ -1,0 +1,90 @@
+﻿@model IEnumerable<Final_Project.Models.HallImage>
+@{
+    ViewData["Title"] = "UpdateHallImages";
+    Layout = "~/Views/Shared/Admin/_Layout.cshtml";
+}
+
+<h1>Update Hall Images</h1>
+
+@{ if (TempData["deleted"] != null)
+        {
+
+            string deletdItem = TempData["deleted"] as string;
+           <div class="alert alert-dismissible alert-warning">
+            <h4 class="alert-heading"> Deleted </h4>
+            <p class="mb-0">@deletdItem </p>
+        </div>
+
+
+    }
+}
+<table class="table">
+    <thead>
+        <tr>
+             <th>
+              Image
+            </th>
+
+             <th>
+               Hall Name
+            </th>
+               <th>
+              Remove Image
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+           
+            <td>
+                <img src="@item.URL" width="200" height="200">
+            </td>
+              <td>
+                @item.Hall.Name
+            </td>
+            <td>
+                <a asp-action="DeleteHallImage" asp-route-id="@item.id" asp-route-id="@item.id"  class="btn btn-outline-danger" ><i class="fa fa-trash"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div class="row ">
+    <div class="col-md-4">
+        <form asp-action="UpdateHallImages" asp-route-id=" @ViewBag.id" enctype="multipart/form-data">
+          <div asp-validation-summary="All" class="text-danger"></div>
+               <div class="form-group">
+     
+        <div class="custom-file">
+            <input  type="file" name="file" multiple  accept=".png, .jpg, .jpeg"  class="custom-file-input" id="File" required  onchange="javascript:updateList()">
+            <label class="custom-file-label" for="File">Choose New images</label>
+              <div id="fileList"></div>
+        </div>
+        <span asp-validation-for="@Model.FirstOrDefault().URL" class="text-danger"></span>
+       
+    </div>
+     
+                    <div class="form-group">
+                <input type="submit" value="Add New Photos" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script type="text/javascript">  
+      updateList = function() {
+  var input = document.getElementById('File');
+  var output = document.getElementById('fileList');
+
+  output.innerHTML = '<ul>';
+  for (var i = 0; i < input.files.length; ++i) {
+    output.innerHTML += '<li>' + input.files.item(i).name + '</li>';
+  }
+  output.innerHTML += '</ul>';
+}  
+    </script>  
+}
