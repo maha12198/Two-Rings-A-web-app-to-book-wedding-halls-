@@ -2073,3 +2073,456 @@ C:\Users\Merit\Downloads\meret work\Final Project\obj\Debug\netcoreapp3.1\Final 
 C:\Users\Merit\Downloads\meret work\Final Project\obj\Debug\netcoreapp3.1\Final Project.dll
 C:\Users\Merit\Downloads\meret work\Final Project\obj\Debug\netcoreapp3.1\Final Project.pdb
 C:\Users\Merit\Downloads\meret work\Final Project\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\appsettings.json
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.StaticWebAssets.xml
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.exe
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.deps.json
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.pdb
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.Views.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.Views.pdb
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.csproj.AssemblyReference.cache
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.MvcApplicationPartsAssemblyInfo.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.MvcApplicationPartsAssemblyInfo.cache
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.RazorAssemblyInfo.cache
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.RazorAssemblyInfo.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\staticwebassets\Final Project.StaticWebAssets.Manifest.cache
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\staticwebassets\Final Project.StaticWebAssets.xml
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.TagHelpers.input.cache
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.TagHelpers.output.cache
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.RazorCoreGenerate.cache
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateHall.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreatePackage.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateUser.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\HallDetails.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RegisterConfirmation.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ShowHalls.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Showpackages.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ShowUsers.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateHall.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateHallImages.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdatePackage.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateRole.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateUser.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserDetails.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Email\ConfirmEmail.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Email\Error.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Email\ForgotPasswordConfirmation.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Email\ResetPassword.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Email\ResetPasswordConfirmation.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\Booking.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\Create.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\Delete.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\Details.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\Edit.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\Index.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\UserDetails.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Manager\ApprovedReservation.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Manager\Delete.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Manager\Index.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Footer.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_LoginPartial.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_MainNavigation.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Scripts.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Styles.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_TopNavigation.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_ViewImports.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_ViewStart.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\UserBookHalls\Create.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\UserBookHalls\Delete.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\UserBookHalls\Details.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\UserBookHalls\Edit.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\UserBookHalls\Index.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.RazorTargetAssemblyInfo.cache
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.RazorTargetAssemblyInfo.cs
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.Views.pdb
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.csproj.CopyComplete
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.dll
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.pdb
+M:\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\appsettings.json
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.StaticWebAssets.xml
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.exe
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.deps.json
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.pdb
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.Views.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Final Project.Views.pdb
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.csproj.AssemblyReference.cache
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.RazorAssemblyInfo.cache
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.RazorAssemblyInfo.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\staticwebassets\Final Project.StaticWebAssets.Manifest.cache
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\staticwebassets\Final Project.StaticWebAssets.Pack.cache
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Final Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Final Project.props
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Final Project.props
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Final Project.props
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\staticwebassets\Final Project.StaticWebAssets.xml
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.TagHelpers.input.cache
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.TagHelpers.output.cache
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.RazorCoreGenerate.cache
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateHall.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreatePackage.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateUser.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\HallDetails.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RegisterConfirmation.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ShowHalls.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Showpackages.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ShowUsers.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateHall.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateHallImages.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdatePackage.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateRole.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateUser.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserDetails.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Email\ConfirmEmail.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Email\Error.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Email\ForgotPasswordConfirmation.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Email\ResetPassword.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Email\ResetPasswordConfirmation.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\Booking.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\Create.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\Delete.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\Details.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\Edit.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\Index.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Halls\UserDetails.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Manager\ApprovedReservation.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Manager\Delete.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Manager\Index.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Footer.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Layout.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_LoginPartial.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_MainNavigation.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Scripts.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_Styles.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_TopNavigation.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_ViewImports.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin\_ViewStart.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\UserBookHalls\Create.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\UserBookHalls\Delete.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\UserBookHalls\Details.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\UserBookHalls\Edit.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\UserBookHalls\Index.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.RazorTargetAssemblyInfo.cache
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.RazorTargetAssemblyInfo.cs
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.Views.pdb
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.csproj.CopyComplete
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.dll
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.pdb
+D:\projects\two rings\Two-Rings-A-web-app-to-book-wedding-halls-\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache

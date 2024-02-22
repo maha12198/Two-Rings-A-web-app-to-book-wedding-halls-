@@ -95,60 +95,56 @@
 
 
 
-
-
-
-
       <!------------------------new card design------------------------>
-                          <br />
-                          <br/>
+            <br />
+            <br/>
 
-                            @{ var HallPakedg1 = context.HallPackages.Where(u=>u.Id == u.HallId);}
-                            @if (HallPakedg1.Count() == 0)
+            @{ var HallPakedg1 = context.HallPackages.Where(u=>u.Id == u.HallId);}
+            @if (HallPakedg1.Count() == 0)
+            {
+                <br />
+                <h1 style="text-align:center">
+                No packages assigned for this hall yet
+                </h1>
+            }
+            else
+            {
+                var userid = User.FindFirstValue(ClaimTypes.NameIdentifier);
+                var HallPakedg = context.HallPackages.Where(u=>u.Id == u.HallId);
+                var backages = context.HallPackages.Where(h => h.HallId == h.Id).Include(h => h.Hall);
+            <!------------------------The Card------------------------>
+                    <div class="row row-cols-1 row-cols-md-2 g-4">
+                            @foreach (var item in ViewBag.backages) 
                             {
-                                <br />
-                                <h1 style="text-align:center">
-                                No packages assigned for this hall yet
-                                </h1>
-                            }
-                            else
-                            {
-                                var userid = User.FindFirstValue(ClaimTypes.NameIdentifier);
-                                var HallPakedg = context.HallPackages.Where(u=>u.Id == u.HallId);
-                                var backages = context.HallPackages.Where(h => h.HallId == h.Id).Include(h => h.Hall);
-                            <!------------------------The Card------------------------>
-                                  <div class="row row-cols-1 row-cols-md-2 g-4">
-                                          @foreach (var item in ViewBag.backages) 
-                                          {
-                                          <div class="col ">
-                                             <div class="card ">
+                            <div class="col ">
+                                <div class="card ">
                                            
-                                                  <div class="card-body">
-                                                     <h4 class="card-title">Pakedge: @item.Name</h4>
-                                                            <p class="card-text">Number Of Persons: @item.NumberOfPersons</p>
-                                                            <p class="card-text">Price: @item.price L.E </p>
-                                                                        @if (item.cake)
-                                                                        {
-                                                                            <p>Cake: Yes</p> 
-                                                                        }
-                                                                        else
-                                                                        {
-                                                                             <p>Cake: No</p> 
-                                                                        }
-                                                                        @if (item.food)
-                                                                        {
-                                                                             <p>Food: Yes</p> 
-                                                                        }
-                                                                        else
-                                                                        {
-                                                                             <p>Food: No</p> 
-                                                                        }
-                                                    </div>
-                                               </div> 
-                                            </div>
-                                            } 
-                                  </div>
-                                  }
+                                    <div class="card-body">
+                                        <h4 class="card-title">Pakedge: @item.Name</h4>
+                                            <p class="card-text">Number Of Persons: @item.NumberOfPersons</p>
+                                            <p class="card-text">Price: @item.price L.E </p>
+                                                        @if (item.cake)
+                                                        {
+                                                            <p>Cake: Yes</p> 
+                                                        }
+                                                        else
+                                                        {
+                                                                <p>Cake: No</p> 
+                                                        }
+                                                        @if (item.food)
+                                                        {
+                                                                <p>Food: Yes</p> 
+                                                        }
+                                                        else
+                                                        {
+                                                                <p>Food: No</p> 
+                                                        }
+                                    </div>
+                                </div> 
+                            </div>
+                            } 
+                    </div>
+                    }
       <!------------------------End of new card design------------------------>
 
 
